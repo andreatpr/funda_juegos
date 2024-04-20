@@ -1,0 +1,5 @@
+﻿  MainGame.cpp
+C:\Users\ANDREA\source\repos\aa\aa\MainGame.cpp(50,16): warning C4305: '+=': truncation from 'double' to 'float'
+  main.cpp
+  Generating Code...
+  aa.vcxproj -> C:\Users\ANDREA\source\repos\aa\x64\Debug\aa.exe
