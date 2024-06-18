@@ -180,9 +180,9 @@ void MainGame::update() {
 		for (size_t i = 0; i < humans.size(); ++i) {
 			humans[i]->update(levels[currentLevel]->getLevelData(), humans, zombies);
 		}
-		/*for (size_t i = 0; i < zombies.size(); ++i) {
+		for (size_t i = 0; i < zombies.size(); ++i) {
 			zombies[i]->update(levels[currentLevel]->getLevelData(), humans, zombies);//corra
-		}*/
+		}
 	}
 }
 
